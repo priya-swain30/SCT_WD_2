@@ -1,1 +1,1 @@
-# SCT_WD_2
+A fully functional calculator build using HTML,CSS,JavaScript
